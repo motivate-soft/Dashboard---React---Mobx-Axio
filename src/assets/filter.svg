@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="10px" viewBox="0 0 15 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>filter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Answers" transform="translate(-485.000000, -251.000000)" stroke="#99A4C2">
+            <g id="Add-filter" transform="translate(473.000000, 240.000000)">
+                <g id="filter" transform="translate(13.000000, 12.000000)">
+                    <g>
+                        <circle id="Oval" cx="1.5" cy="1.5" r="1.5"></circle>
+                        <circle id="Oval" cx="11.5" cy="6.5" r="1.5"></circle>
+                        <rect id="Rectangle" fill="#D8D8D8" x="3.5" y="1.5" width="9" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle" fill="#D8D8D8" x="0.5" y="6.5" width="9" height="1" rx="0.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

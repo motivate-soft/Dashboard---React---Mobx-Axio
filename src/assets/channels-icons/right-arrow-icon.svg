@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>right arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="New-Design---1366x768" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Answers---new-design" transform="translate(-1084.000000, -532.000000)" fill="#99A4C2">
+            <g id="Group">
+                <g id="Boxes" transform="translate(132.000000, 300.000000)">
+                    <g id="Box-#2">
+                        <g id="Group-12" transform="translate(925.000000, 227.000000)">
+                            <g id="right-arrow" transform="translate(27.000000, 5.000000)">
+                                <g id="Group-11">
+                                    <rect id="Rectangle-29" fill-rule="nonzero" x="0" y="2.94285714" width="8.28571429" height="3.42857143" rx="1.71428571"></rect>
+                                    <polygon id="Triangle" fill-rule="nonzero" transform="translate(9.142857, 4.657143) rotate(90.000000) translate(-9.142857, -4.657143) " points="9.14285714 1.8 13.7142857 7.51428571 4.57142857 7.51428571"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
